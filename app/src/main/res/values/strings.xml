@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AIDLExample</string>
+    <string name="return_primitive">Return primitive</string>
+    <string name="return_object">Return object</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string-array name="actions">
+        <item>SUM</item>
+        <item>SUB</item>
+        <item>MUL</item>
+        <item>DIV</item>
+    </string-array>
+</resources>
